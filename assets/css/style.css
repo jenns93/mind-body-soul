@@ -108,11 +108,14 @@ body{
 #cover-text-hero h3{
     line-height: 25px;
 }
-/* summary section */
+/* summary,setup, benefits and basics sections */
 #summary h2, #setup h2, #benefits h2, #basics h2{
     padding: 20px 0;
     text-align: center;
 }
-#summary p{
+#summary p, #setup p, #benefits p, #basics p{
+    line-height: 30px;
+}
+#summary p,#setup, #benefits-further-info{
     margin: 0 5%;
 }
