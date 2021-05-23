@@ -11,3 +11,22 @@ body{
 
     
 }
+#logo{
+    float: left;
+    margin-left: 2%;
+}
+#menu{
+    float: right;
+    margin-right: 2%;
+}
+#logo, #menu{
+    line-height: 75px;
+}
+#menu li{
+    float: left;
+    list-style: none;
+    padding-right: 15px;
+}
+#menu a{
+    text-decoration: none;
+}
