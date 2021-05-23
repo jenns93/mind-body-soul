@@ -48,3 +48,25 @@ body{
     width: 100%;
     height: 600px;
 }
+#hero-outer > div{
+    height: 100%;
+    width: 100%;
+}
+#hero-home{
+    background: url(../images/hero-home.jpg);
+}
+#hero-mind{
+    background: url(../images/mind-hero.jpg);
+}
+#hero-yoga{
+    background: url(../images/yoga-hero.jpg);
+}
+#hero-med{
+    background: url(../images/med-hero.jpg);
+}
+#hero-contact{
+    background: url(../images/hero-contact.jpg);
+}
+#hero-404{
+    background: url(../images/404-hero.jpg);
+}
