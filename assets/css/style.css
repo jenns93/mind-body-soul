@@ -160,7 +160,16 @@ body{
     width: 33%;
     display: inline-block;
 }
-
+.benefits-overlay-text{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(114, 117, 111, 0.6);
+    color: #ffff;
+    font-weight: 600;
+    text-align: center;
+    line-height: 75px;
+    
+}
 
 #benefits-med-1{
     background: url(../images/med-benefit-1.jpg) no-repeat center center;
