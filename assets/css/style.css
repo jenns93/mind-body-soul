@@ -120,15 +120,34 @@ body{
     margin: 0 5%;
 }
 /* setup */
+
+#setup ul{
+    list-style: none;
+    text-align: center;
+    line-height: 75px;
+    vertical-align: top;
+}
 .medium-img-container{
     height: 300px;
     width: 40%;
+    display: inline-block;
 }
 #med-setup{
     background: url(../images/med-setup.jpg) no-repeat center center;
     background-size: 100%;
     height: 100%;
     width: 100%;
+    
+}
+#setup-list{
+    width: 40%;
+    display: inline-block;
+  
+}
+#setup-icons{
+    width: 19%;
+    display: inline-block;
+    
 }
 /* benefits-further-info */
 #benefits-further-info h3,#benefits-further-info p {
