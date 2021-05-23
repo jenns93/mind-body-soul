@@ -116,7 +116,7 @@ body{
 #summary p, #setup p, #benefits p, #basics p{
     line-height: 30px;
 }
-#summary p,#setup, #benefits-further-info{
+#summary p,#setup, #benefits{
     margin: 0 5%;
 }
 /* setup */
@@ -150,6 +150,35 @@ body{
     display: inline-block;
     font-size: 200%;
     
+}
+/* benefits */
+#benefits ul{
+    list-style: none;
+}
+.small-img-container{
+    height: 300px;
+    width: 33%;
+    display: inline-block;
+}
+
+
+#benefits-med-1{
+    background: url(../images/med-benefit-1.jpg) no-repeat center center;
+    height: 100%;
+    width: 100%;
+    background-size: 120%;
+}
+#benefits-med-2{
+    background: url(../images/med-benefit-2.jpg) no-repeat center center;
+    height: 100%;
+    width: 100%;
+    background-size: 120%;
+}
+#benefits-med-3{
+    background: url(../images/med-benefit-3.jpg) no-repeat center center;
+    height: 100%;
+    width: 100%;
+    background-size: 120%;
 }
 /* benefits-further-info */
 #benefits-further-info h3,#benefits-further-info p {
