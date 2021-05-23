@@ -30,3 +30,7 @@ body{
 #menu a{
     text-decoration: none;
 }
+.active{
+    border-bottom: 1.5px solid #3a3a3a;
+    font-size: 100% !important;
+}
