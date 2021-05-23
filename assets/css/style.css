@@ -119,3 +119,16 @@ body{
 #summary p,#setup, #benefits-further-info{
     margin: 0 5%;
 }
+#benefits-further-info h3,#benefits-further-info p {
+    width: 30%;
+    display: inline-block;
+    line-height: 30px;
+}
+#benefits-further-info h3{
+    text-align: center;
+    padding-bottom: 20px;
+}
+#benefits-further-info p{
+    padding-right: 3%;
+    vertical-align: top;
+}
