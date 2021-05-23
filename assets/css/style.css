@@ -85,7 +85,7 @@ body{
 }
 #cover-text-hero{
     width: 250px;
-    height: 200px;
+    height: 160px;
 
     background-color: rgba(214, 220, 207, 0.6);
     color: inherit;
@@ -96,4 +96,10 @@ body{
     right: 200px;
 
     position: absolute;
+}
+#cover-text-hero h2{
+    padding-bottom: 20px;
+}
+#cover-text-hero h3{
+    line-height: 25px;
 }
