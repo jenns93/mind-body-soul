@@ -49,9 +49,22 @@ body{
     height: 600px;
 }
 #hero-outer > div{
-    height: 100%;
+    height: 600px;
     width: 100%;
+    /* hero images zoom animation */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
+@keyframes hero-zoom{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.05);
+    }
+}
+/* hero images */
 #hero-home{
     background: url(../images/hero-home.jpg);
 }
@@ -69,4 +82,18 @@ body{
 }
 #hero-404{
     background: url(../images/404-hero.jpg);
+}
+#cover-text-hero{
+    width: 250px;
+    height: 200px;
+
+    background-color: rgba(214, 220, 207, 0.6);
+    color: inherit;
+    padding: 10px;
+    text-align: left;
+    border-radius: 10px;
+    bottom: 170px;
+    right: 200px;
+
+    position: absolute;
 }
