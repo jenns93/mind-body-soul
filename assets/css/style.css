@@ -119,6 +119,18 @@ body{
 #summary p,#setup, #benefits-further-info{
     margin: 0 5%;
 }
+/* setup */
+.medium-img-container{
+    height: 300px;
+    width: 40%;
+}
+#med-setup{
+    background: url(../images/med-setup.jpg) no-repeat center center;
+    background-size: 100%;
+    height: 100%;
+    width: 100%;
+}
+/* benefits-further-info */
 #benefits-further-info h3,#benefits-further-info p {
     width: 30%;
     display: inline-block;
@@ -131,6 +143,5 @@ body{
     padding-bottom: 20px;
 }
 #benefits-further-info p{
-    
     vertical-align: top;
 }
