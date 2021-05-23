@@ -142,11 +142,13 @@ body{
 #setup-list{
     width: 40%;
     display: inline-block;
+    font-size: 120%;
   
 }
 #setup-icons{
     width: 19%;
     display: inline-block;
+    font-size: 200%;
     
 }
 /* benefits-further-info */
