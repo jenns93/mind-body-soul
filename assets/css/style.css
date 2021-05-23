@@ -30,6 +30,12 @@ body{
 #menu a{
     text-decoration: none;
 }
+#menu a:hover{
+    border-bottom: 1.5px solid #3a3a3a;
+    font-weight: 800;
+     transition: 0.2s;
+     
+}
 .active{
     border-bottom: 1.5px solid #3a3a3a;
     font-size: 100% !important;
