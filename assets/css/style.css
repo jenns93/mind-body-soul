@@ -15,13 +15,17 @@ body{
 #logo{
     float: left;
     margin-left: 2%;
+    font-size: 250%;
+    
 }
 #menu{
     float: right;
     margin-right: 2%;
+    font-size: 130%;
 }
 #logo, #menu{
     line-height: 75px;
+    color: #3a3a3a;
 }
 #menu li{
     float: left;
@@ -30,6 +34,7 @@ body{
 }
 #menu a{
     text-decoration: none;
+    color: #3a3a3a;
 }
 #menu a:hover{
     border-bottom: 1.5px solid #3a3a3a;
