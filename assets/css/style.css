@@ -226,20 +226,47 @@ body{
     
 }
 .sign-up-textbox{
-    margin-left: 20%;
+    margin-left: 15%;
     width: 30%;
-    height: 300px;
+    height: 120px;
     display: inline-block;
     vertical-align: top;
     text-align: center;
+    padding-top: 30px;
+    border-radius: 20px;
     line-height: 30px;
-    
+    background-color: rgba(214, 220, 207, 0.6);
 }
 .sign-up-form{
-    
+ background-color: rgba(214, 220, 207, 0.6);
+   border-radius: 20px;
+   margin-left: 5%;
      width: 30%;
-     height: 300px;
+     height: 250px;
     display: inline-block;
      
     
+}
+.sign-up-form input{
+    width: 60%;
+    margin-left: 25%;
+    padding: 5px 0 5px 2px;
+    
+    
+}
+.sign-up-form label{
+    margin-left: 5%;
+    line-height: 40px;
+   
+    
+}
+.sign-up-form [type=submit]{
+    width: 20%;
+    margin-left: 50%;
+    padding: 5px;
+    border-radius: 50px;
+    background-color: #ffff;
+}
+.sign-up-form [placeholder]{
+    color: #3a3a3a;
 }
