@@ -193,11 +193,15 @@ body{
     font-size: 200%;
 }
 /* benefits-further-info */
+ #benefits-further-info{
+     width: 100%;
+ }
 #benefits-further-info h3,#benefits-further-info p {
-    width: 30%;
+    width: 33%;
     display: inline-block;
     line-height: 30px;
-    padding:10px 3% 0 0;
+    padding-top:10px;
+    text-align: center;
     
 }
 #benefits-further-info h3{
