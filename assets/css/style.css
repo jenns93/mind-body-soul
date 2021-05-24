@@ -167,9 +167,9 @@ body{
     color: #ffff;
     font-weight: 600;
     text-align: center;
-    line-height: 75px;
-    
+    line-height: 100px;
 }
+
 
 #benefits-med-1{
     background: url(../images/med-benefit-1.jpg) no-repeat center center;
@@ -189,12 +189,15 @@ body{
     width: 100%;
     background-size: 120%;
 }
+.benefits-list i{
+    font-size: 200%;
+}
 /* benefits-further-info */
 #benefits-further-info h3,#benefits-further-info p {
     width: 30%;
     display: inline-block;
     line-height: 30px;
-    padding-right: 3%;
+    padding:10px 3% 0 0;
     
 }
 #benefits-further-info h3{
