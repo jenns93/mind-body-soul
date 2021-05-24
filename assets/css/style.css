@@ -219,3 +219,27 @@ body{
     padding-bottom: 20px;
 }
 /* sign up section */
+#sign-up{
+    margin-top: 50px;
+    height: 300px;
+    width: 100%;
+    
+}
+.sign-up-textbox{
+    margin-left: 20%;
+    width: 30%;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    line-height: 30px;
+    
+}
+.sign-up-form{
+    
+     width: 30%;
+     height: 300px;
+    display: inline-block;
+     
+    
+}
