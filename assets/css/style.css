@@ -270,3 +270,10 @@ body{
 .sign-up-form [placeholder]{
     color: #3a3a3a;
 }
+.sign-up-form input:hover{
+     background-color: lightblue;
+}
+.sign-up-form [type=submit]:hover{
+    background-color: lightblue;
+    font-weight: 600;
+}
