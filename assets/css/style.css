@@ -211,3 +211,10 @@ body{
 #benefits-further-info p{
     vertical-align: top;
 }
+/* basics and video */
+#basics{
+    text-align: center;
+}
+#basics p{
+    padding-bottom: 20px;
+}
