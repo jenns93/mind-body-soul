@@ -11,6 +11,7 @@ body{
 
     
 }
+
 /* header logo and menu elements */
 #logo{
     float: left;
@@ -323,4 +324,9 @@ footer a{
 }
 #contact a{
     text-decoration: none;
+}
+hr{
+    width: 90%;
+    margin: 10px 5% 0 5%;
+    border-top:1px solid #3a3a3a;
 }
