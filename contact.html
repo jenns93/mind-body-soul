@@ -47,7 +47,7 @@
 
         </div>
     </section>
-    <section>
+    <section id="contact-form">
         <h2>contact form</h2>
          <form method="POST" action="#">
             <label for="fname">First Name</label><br>
@@ -71,40 +71,44 @@
 
 
     </section>
-     <section>
+    <section id="sign-up">
+        <div class="sign-up-textbox">
         <h3>Sign up to our Newsletter!</h3>
         <p>
             Stay up to date on the latest trends and event information with our weekly newsletter.
         </p>
+        </div>
+        <div class="sign-up-form">
         <form method="POST" action="#">
             <label for="fname">First Name</label><br>
-            <input type="text" id="fname" name="fname" value="Joe"><br>
-             <label for="sname">Surname</label><br>
-            <input type="text" id="sname" name="sname" value="Bloggs"><br>
-             <label for="email">Email Adress</label><br>
-            <input type="email" id="email" name="email" value="madeup_email@gamil.com"><br>
-            <input type="submit" value="Sign up"><br>
+            <input type="text" id="fname" name="fname" placeholder="First Name" required><br>
+            <label for="sname">Surname</label><br>
+            <input type="text" id="sname" name="sname" placeholder="Surname" required><br>
+            <label for="email">Email Address</label><br>
+            <input type="email" id="email" name="email" placeholder="Email Address" required><br><br>
+            <input type="submit" value="Sign Up"><br>
         </form>
+        </div>
     </section>
     <section id="lower-img-blocks">
-        <div id="block-1">
-            <h3>1</h3>
-            <h4>icon</h4>
+        <div>
+            <h3>Hydrate</h3>
+            <i class="fas fa-faucet"></i>
         </div>
-        <div id="block-2">
-            <h3>2</h3>
-            <h4>icon</h4>
+        <div>
+            <h3>Stay Active</h3>
+            <i class="fas fa-hiking"></i>
         </div>
-        <div id="block-3">
-            <h3>3</h3>
-            <h4>icon</h4>
+        <div>
+            <h3>Eat Healthy</h3>
+            <i class="fas fa-carrot"></i>
         </div>
-        <div id="block-4">
-            <h3>4</h3>
-            <h4>icon</h4>
+        <div>
+            <h3>Unwind</h3>
+            <i class="fas fa-hot-tub"></i>
         </div>
     </section>
-      <footer>
+     <footer>
         <ul id="social">
             <li>
                 <a href="https://en-gb.facebook.com/" target="_blank" rel="noopener"
@@ -126,13 +130,14 @@
         <ul id="contact">
             <li>
                 <a href="contact.html" target="_blank" rel="noopener" aria-label="vist our contact page"><i
-                        class="fas fa-comment-dots"></i>Any questions?</a>
+                        class="fas fa-comment-dots"></i> Any questions? Vist our contact page</a>
             </li>
             <li>
                 <a href="https://www.google.co.uk/maps?hl=en" target="_blank" rel="noopener" aria-label="our address"><i
-                        class="fas fa-map-marker-alt"></i>Find us at: 101 The street, Madeup town, UK PC1 1AB. </a>
+                        class="fas fa-map-marker-alt"></i> Find us at: 101 The street, Madeup town, UK PC1 1AB. </a>
             </li>
         </ul>
     </footer>
 </body>
+
 </html>

@@ -11,6 +11,11 @@ body{
 
     
 }
+hr{
+    width: 90%;
+    margin: 10px 5% 0 5%;
+    border-top:1px solid #3a3a3a;
+}
 
 /* header logo and menu elements */
 #logo{
@@ -255,27 +260,27 @@ body{
     
     
 }
-.sign-up-form label{
+.sign-up-form label, #contact-form label{
     margin-left: 5%;
     line-height: 40px;
    
     
 }
-.sign-up-form [type=submit]{
+.sign-up-form [type=submit], #contact-form [type=submit]{
     width: 20%;
     margin-left: 50%;
     padding: 5px;
     border-radius: 50px;
     background-color: #ffff;
 }
-.sign-up-form [placeholder]{
+.sign-up-form [placeholder], #contact-form [placeholder]{
     color: #3a3a3a;
 }
 /* sign up hover functions */
-.sign-up-form input:hover{
+.sign-up-form input:hover, #contact-form input:hover{
      background-color: lightblue;
 }
-.sign-up-form [type=submit]:hover{
+.sign-up-form [type=submit]:hover, #contact-form [type=submit]:hover{
     background-color: lightblue;
     font-weight: 600;
 }
@@ -325,8 +330,24 @@ footer a{
 #contact a{
     text-decoration: none;
 }
-hr{
-    width: 90%;
-    margin: 10px 5% 0 5%;
-    border-top:1px solid #3a3a3a;
+/* contact form */
+#contact-form{
+    background-color: rgba(214, 220, 207, 0.6);
+   border-radius: 20px;
+   margin:30px 25% 0 25%;
+     width: 50%;
+     height: 600px;
+    display: inline-block;
+    line-height: 50px;
+}
+#contact-form h2{
+    text-align: center;
+    font-size: 180%;
+    
+}
+#contact-form input{
+    width: 60%;
+    margin-left: 25%;
+    padding: 15px 0 15px 5px;
+    font-size: 120%;
 }
