@@ -77,22 +77,22 @@ hr{
 }
 /* hero images */
 #hero-home{
-    background: url(../images/hero-home.jpg);
+    background: url(../images/hero-home.jpg)no-repeat center center;
 }
 #hero-mind{
-    background: url(../images/mind-hero.jpg);
+    background: url(../images/mind-hero.jpg)no-repeat center center;
 }
 #hero-yoga{
-    background: url(../images/yoga-hero.jpg);
+    background: url(../images/yoga-hero.jpg)no-repeat center center;
 }
 #hero-med{
-    background: url(../images/med-hero.jpg);
+    background: url(../images/med-hero.jpg)no-repeat center center;
 }
 #hero-contact{
-    background: url(../images/hero-contact.jpg);
+    background: url(../images/hero-contact.jpg)no-repeat center center;
 }
 #hero-404{
-    background: url(../images/404-hero.jpg);
+    background: url(../images/404-hero.jpg)no-repeat center center;
 }
 #cover-text-hero{
     width: 250px;
@@ -368,14 +368,8 @@ footer a{
 
 /* for larger to medium screens size from 1200px wide and down */
 @media screen and (max-width:1200px){
- #menu{
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-        font-size: 90%;
-    }
+ 
+    
 }
 /* for medium screens size from 950px wide and down */
 @media screen and (max-width:950px){
@@ -386,6 +380,10 @@ footer a{
         margin-bottom: 20px;
         line-height: 25px;
         font-size: 80%;
+    }
+     #cover-text-hero{
+        left: 0;
+        margin-left: 5%;
     }
 }
 /* for small screen sizes 800px wide and down */
