@@ -166,6 +166,7 @@ hr{
     width: 33%;
     display: inline-block;
 }
+
 .benefits-overlay-text{
     height: 100%;
     width: 100%;
@@ -181,30 +182,33 @@ hr{
     background: url(../images/med-benefit-1.jpg) no-repeat center center;
     height: 100%;
     width: 100%;
-    background-size: 120%;
+   background-size: 120%;
 }
 #benefits-med-2{
     background: url(../images/med-benefit-2.jpg) no-repeat center center;
     height: 100%;
     width: 100%;
-    background-size: 120%;
+   background-size: 120%;
+
 }
 #benefits-med-3{
     background: url(../images/med-benefit-3.jpg) no-repeat center center;
     height: 100%;
     width: 100%;
     background-size: 120%;
+
 }
 .benefits-list i{
     font-size: 200%;
 }
 /* benefits-further-info */
- #benefits-further-info{
-     width: 100%;
+ #benefits-further-info div{
+     width: 33%;
+     display: inline-block;
  }
 #benefits-further-info h3,#benefits-further-info p {
-    width: 33%;
-    display: inline-block;
+    
+    
     line-height: 30px;
     padding-top:10px;
     text-align: center;
@@ -214,9 +218,7 @@ hr{
     text-align: center;
     padding-bottom: 20px;
 }
-#benefits-further-info p{
-    vertical-align: top;
-}
+
 /* basics and video */
 #basics{
     text-align: center;
@@ -368,8 +370,13 @@ footer a{
 
 /* for larger to medium screens size from 1200px wide and down */
 @media screen and (max-width:1200px){
+ .small-img-container, #benefits-further-info div{
+        clear: both;
+        width: 60%;
+        margin:0 0 10px 20%;
+    }
  
-    
+
 }
 /* for medium screens size from 950px wide and down */
 @media screen and (max-width:950px){
@@ -400,6 +407,7 @@ footer a{
         float: right;
         margin-right: 5%;
     }
+   
 }
 /* for small screen sizes 800px wide and down */
 @media screen and (max-width:800px){
