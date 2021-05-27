@@ -379,10 +379,8 @@ footer a{
         margin:0 0 10px 20%;
         
     }
-     
  #video-link{
-     width: 90%;
-     
+     width: 90%;  
  }
 }
  /* for medium screens size from 950px wide and down */
@@ -417,7 +415,7 @@ footer a{
     #sign-up{
         height: 500px;
     }
-    .sign-up-textbox, .sign-up-form{
+    .sign-up-textbox, .sign-up-form, #contact-form{
         width: 60%;
         margin:10px 20%;
         display: block;
@@ -443,10 +441,10 @@ footer a{
         margin-right: 5%;
          
     }
-    #sign-up{
+    #sign-up, #contact-form{
         font-size: 80%;
     }
-    .sign-up-textbox, .sign-up-form{
+    .sign-up-textbox, .sign-up-form, #contact-form{
         width: 70%;
         margin:10px 15%;
         display: block;
