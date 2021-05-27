@@ -334,25 +334,33 @@ footer a{
 #contact-form{
     background-color: rgba(214, 220, 207, 0.6);
    border-radius: 20px;
-   margin:30px 25% 0 25%;
+   margin:30px 25%;
      width: 50%;
-     height: 600px;
+     height: 770px;
     display: inline-block;
     line-height: 50px;
 }
 #contact-form h2{
     text-align: center;
-    font-size: 180%;
+    font-size: 160%;
     
 }
-#contact-form input{
+#contact-form input, #query-subject{
     width: 60%;
     margin-left: 25%;
     padding: 15px 0 15px 10px;
-    font-size: 120%;
+    font-size: 110%;
 }
 #contact-form label{
     margin-left: 5%;
     line-height: 40px;
-    font-size: 120%;
+    font-size: 110%;
+}
+#query{
+    width: 60%;
+    margin-left: 25%;
+    padding: 15px 0 15px 10px;
+    font-size: 110%;
+    height: 150px;
+    line-height: 20px;
 }
