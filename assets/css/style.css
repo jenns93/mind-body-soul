@@ -367,6 +367,7 @@ footer a{
 }
 #contact a{
     text-decoration: none;
+    list-style: none;
 }
 /* media quires */
 
@@ -456,5 +457,8 @@ footer a{
        display: block;
        
         padding: 0;
+    }
+    #contact, #social{
+        font-size: 80%;
     }
 }
