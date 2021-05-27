@@ -182,20 +182,20 @@ hr{
     background: url(../images/med-benefit-1.jpg) no-repeat center center;
     height: 100%;
     width: 100%;
-   background-size: 120%;
+   background-size: cover;
 }
 #benefits-med-2{
     background: url(../images/med-benefit-2.jpg) no-repeat center center;
     height: 100%;
     width: 100%;
-   background-size: 120%;
+   background-size: cover;
 
 }
 #benefits-med-3{
     background: url(../images/med-benefit-3.jpg) no-repeat center center;
     height: 100%;
     width: 100%;
-    background-size: 120%;
+    background-size: cover;
 
 }
 .benefits-list i{
@@ -377,7 +377,9 @@ footer a{
         clear: both;
         width: 60%;
         margin:0 0 10px 20%;
+        
     }
+     
  #video-link{
      width: 90%;
      
