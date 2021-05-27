@@ -385,10 +385,37 @@ footer a{
         left: 0;
         margin-left: 5%;
     }
+    .medium-img-container{
+        width: 90%;
+        margin-left: 5%;
+        clear: both;
+    }
+    #setup-list{
+        width: 65%;
+        float: left;
+        margin-left: 5%;
+    }
+     #setup-icons{
+        width: 25%;
+        float: right;
+        margin-right: 5%;
+    }
 }
 /* for small screen sizes 800px wide and down */
 @media screen and (max-width:800px){
     #menu{
         font-size: 70%;
+    }
+    #setup-list{
+        width: 65%;
+        float: left;
+        margin-left: 5%;
+        font-size: 90%;
+    }
+     #setup-icons{
+        width: 25%;
+        float: right;
+        margin-right: 5%;
+         
     }
 }
