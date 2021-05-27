@@ -184,7 +184,7 @@ hr{
     line-height: 100px;
 }
 
-
+/* meditation benefit images */
 #benefits-med-1{
     background: url(../images/med-benefit-1.jpg) no-repeat center center;
     height: 100%;
@@ -205,6 +205,28 @@ hr{
     background-size: cover;
 
 }
+/* mindfulness benefit images */
+#benefits-mind-1{
+    background: url(../images/mind-benefit-1.jpg) no-repeat center center;
+    height: 100%;
+    width: 100%;
+   background-size: cover;
+}
+#benefits-mind-2{
+    background: url(../images/mind-benefit-2.jpg) no-repeat center center;
+    height: 100%;
+    width: 100%;
+   background-size: cover;
+
+}
+#benefits-mind-3{
+    background: url(../images/mind-benefit-3.jpg) no-repeat center center;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+/* yoga benefit images */
+
 .benefits-list i{
     font-size: 200%;
 }
