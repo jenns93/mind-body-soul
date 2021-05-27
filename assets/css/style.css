@@ -289,22 +289,24 @@ hr{
 /* lower img blocks section */
 #lower-img-blocks{
     background: url(../images/lower-section.jpg)no-repeat center center;
-    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     width: 100%;
-    background-size: 100%;
-    display: flex;
+    overflow: hidden;
 }
 #lower-img-blocks div{
-    display: inline-block;
-    height: 200px;
-    width: 25%;
+   color: #fafafa;
     background-color: rgba(114, 117, 111, 0.6);
-    color: #ffff;
-    font-weight: 800;
+    width: 25%;
+    height: 200px;
+    float:left;
+    padding:30px 0 0 30px;
     text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
     font-size: 200%;
-    line-height: 100px;
-    border: 2px solid #ffff;
+    line-height: 80px;
 }
 /* contact form */
 #contact-form{
@@ -417,7 +419,9 @@ footer a{
         margin:10px 20%;
         display: block;
     }
-   
+   #lower-img-blocks h3{
+       font-size: 80%;
+   }
 }
 /* for small screen sizes 800px wide and down */
 @media screen and (max-width:800px){
@@ -446,5 +450,11 @@ footer a{
     }
     .sign-up-form [type=submit]{
         width: 30%;
+    }
+    #lower-img-blocks > div{
+         width: 100%;
+       display: block;
+       
+        padding: 0;
     }
 }
