@@ -56,21 +56,21 @@
         <h2>contact form</h2>
          <form method="POST" action="#">
             <label for="fname-cf">First Name</label><br>
-            <input type="text" id="fname-cf" name="fname-cf" placeholder="Joe"><br>
+            <input type="text" id="fname-cf" name="fname-cf" placeholder="Joe" required><br>
              <label for="sname-cf">Surname</label><br>
-            <input type="text" id="sname-cf" name="sname-cf" placeholder="Bloggs"><br>
+            <input type="text" id="sname-cf" name="sname-cf" placeholder="Bloggs" required><br>
              <label for="email">Email Adress</label><br>
-            <input type="email" id="email-cf" name="email-cf" placeholder="madeup_email@gamil.com"><br>
+            <input type="email" id="email-cf" name="email-cf" placeholder="madeup_email@gamil.com" required><br>
             <label for="query-subject">Query Subject</label>
-            <select id="query-subject" name="query-subject">
+            <select id="query-subject" name="query-subject" required>
                 <option value="General enquiries">General enquiries</option>
                 <option value="Sign up issues">Sign up issues</option>
                 <option value="PR and media">PR and media</option>
                 <option value="Other">Other</option>
             </select><br>
             <label for="query">Your Query</label><br>
-            <textarea id="query" name="query " placeholder="Your query"></textarea><br>
-            <input type="submit" value="Sign up"><br>
+            <textarea id="query" name="query " placeholder="Your query" required></textarea><br>
+            <input type="submit" value="Submit"><br>
         </form>
 
 
