@@ -260,7 +260,7 @@ hr{
     
     
 }
-.sign-up-form label, #contact-form label{
+.sign-up-form label{
     margin-left: 5%;
     line-height: 40px;
    
@@ -348,6 +348,11 @@ footer a{
 #contact-form input{
     width: 60%;
     margin-left: 25%;
-    padding: 15px 0 15px 5px;
+    padding: 15px 0 15px 10px;
+    font-size: 120%;
+}
+#contact-form label{
+    margin-left: 5%;
+    line-height: 40px;
     font-size: 120%;
 }
