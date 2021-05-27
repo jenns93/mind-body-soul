@@ -375,10 +375,12 @@ footer a{
         width: 60%;
         margin:0 0 10px 20%;
     }
- 
-
+ #video-link{
+     width: 90%;
+     
+ }
 }
-/* for medium screens size from 950px wide and down */
+ /* for medium screens size from 950px wide and down */
 @media screen and (max-width:950px){
      #menu{
         clear: left;
