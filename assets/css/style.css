@@ -145,6 +145,13 @@ hr{
     width: 100%;
     
 }
+#mind-setup{
+    background: url(../images/mind-setup.jpg) no-repeat center center;
+    background-size: 100%;
+    height: 100%;
+    width: 100%;
+    
+}
 #setup-list{
     width: 40%;
     display: inline-block;
@@ -420,6 +427,7 @@ footer a{
         margin:10px 20%;
         display: block;
     }
+    
    #lower-img-blocks h3{
        font-size: 80%;
    }
