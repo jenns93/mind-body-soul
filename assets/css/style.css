@@ -482,7 +482,7 @@ footer a{
 /* for small screen sizes 800px wide and down */
 @media screen and (max-width:800px){
     #menu{
-        font-size: 70%;
+        font-size: 90%;
     }
     #setup-list{
         width: 65%;
