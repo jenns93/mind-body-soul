@@ -409,6 +409,14 @@ footer a{
         float: right;
         margin-right: 5%;
     }
+    #sign-up{
+        height: 500px;
+    }
+    .sign-up-textbox, .sign-up-form{
+        width: 60%;
+        margin:10px 20%;
+        display: block;
+    }
    
 }
 /* for small screen sizes 800px wide and down */
@@ -427,5 +435,16 @@ footer a{
         float: right;
         margin-right: 5%;
          
+    }
+    #sign-up{
+        font-size: 80%;
+    }
+    .sign-up-textbox, .sign-up-form{
+        width: 70%;
+        margin:10px 15%;
+        display: block;
+    }
+    .sign-up-form [type=submit]{
+        width: 30%;
     }
 }
