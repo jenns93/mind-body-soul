@@ -315,20 +315,20 @@ hr{
 }
 .sign-up-form input{
     width: 60%;
-    margin-left: 25%;
+    margin-left: 20%;
     padding: 5px 0 5px 2px;
     
     
 }
 .sign-up-form label{
-    margin-left: 5%;
+    margin-left: 20%;
     line-height: 40px;
    
     
 }
 .sign-up-form [type=submit], #contact-form [type=submit]{
     width: 20%;
-    margin-left: 50%;
+    margin-left: 35%;
     padding: 5px;
     border-radius: 50px;
     background-color: #ffff;
@@ -370,7 +370,7 @@ hr{
 #contact-form{
     background-color: rgba(214, 220, 207, 0.6);
    border-radius: 20px;
-   margin:30px 25%;
+   margin:30px 20%;
      width: 50%;
      height: 770px;
     display: inline-block;
@@ -383,18 +383,18 @@ hr{
 }
 #contact-form input, #query-subject{
     width: 60%;
-    margin-left: 25%;
+    margin-left: 20%;
     padding: 15px 0 15px 10px;
     font-size: 110%;
 }
 #contact-form label{
-    margin-left: 5%;
+    margin-left: 20%;
     line-height: 40px;
     font-size: 110%;
 }
 #query{
     width: 60%;
-    margin-left: 25%;
+    margin-left: 20%;
     padding: 15px 0 15px 10px;
     font-size: 110%;
     height: 150px;
