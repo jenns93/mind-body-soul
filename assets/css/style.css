@@ -424,7 +424,7 @@ footer a{
     line-height: 50px;
     font-size: 120%;
 }
-#contact a{
+#contact li, #contact a{
     text-decoration: none;
     list-style: none;
 }
