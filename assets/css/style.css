@@ -190,7 +190,8 @@ hr{
     color: #ffff;
     font-weight: 600;
     text-align: center;
-    line-height: 100px;
+    line-height: 80px;
+    font-size: 120%;
 }
 
 /* meditation benefit images */
@@ -261,6 +262,7 @@ hr{
  #benefits-further-info div{
      width: 33%;
      display: inline-block;
+     vertical-align: top;
  }
 #benefits-further-info h3,#benefits-further-info p {
     
@@ -453,8 +455,18 @@ footer a{
 
 /* for larger to medium screens size from 1200px wide and down */
 @media screen and (max-width:1200px){
-     
-    
+      header, #hero-outer, #summary, #setup, #benefits, #basics, #sign-up, #lower-img-blocks, footer{
+        width: 100%;
+        margin: 0;
+    }
+    p,li{
+        font-size: 100%;
+        font-weight: 500;
+    }
+    hr{
+        width: 90%;
+        margin: 25px 5%;
+    }
  .small-img-container, #benefits-further-info div{
         clear: both;
         width: 60%;
