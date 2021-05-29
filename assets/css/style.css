@@ -427,6 +427,23 @@ footer a{
 }
 /* media quires */
 
+/* extra large screens 2560 w/d */
+@media screen and (max-width:2560px){
+    header, #hero-outer, #summary, #setup, #benefits, #basics, #sign-up, #lower-img-blocks, footer{
+        width: 60%;
+        margin: 0 20%;
+    }
+    hr{
+        width: 60%;
+        margin: 25px 20%;
+    }
+    p,li{
+        font-size: 120%;
+        font-weight: 600;
+    }
+}
+
+
 /* for larger to medium screens size from 1200px wide and down */
 @media screen and (max-width:1200px){
      
