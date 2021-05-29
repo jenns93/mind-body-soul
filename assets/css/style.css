@@ -429,8 +429,8 @@ footer a{
 }
 /* media quires */
 
-/* extra large screens 2560 w/d */
-@media screen and (max-width:2560px){
+/* extra large screens 5000 w/d */
+@media screen and (max-width:5000px){
     header, #hero-outer, #summary, #setup, #benefits, #basics, #sign-up, #lower-img-blocks, footer{
         width: 60%;
         margin: 0 20%;
@@ -444,22 +444,35 @@ footer a{
         font-size: 120%;
         font-weight: 600;
     }
+    #sign-up{
+    margin-top: 50px;
+    }
 }
 /* for large screens size from 2000px wide and down */
 @media screen and (max-width:2000px){
-    header, #hero-outer, #summary, #setup, #benefits, #basics, #sign-up, #lower-img-blocks, footer{
+    header, #hero-outer, #summary, #setup, #benefits, #basics, #lower-img-blocks, footer{
         width: 80%;
         margin: 0 10%;
+    }
+    #sign-up{
+        width: 100%;
+        margin: 10px 0;
+        font-size: 90%;
     }
 }
 
 
 /* for larger to medium screens size from 1200px wide and down */
 @media screen and (max-width:1200px){
-      header, #hero-outer, #summary, #setup, #benefits, #basics, #sign-up, #lower-img-blocks, footer{
+      header, #hero-outer, #summary, #benefits, #basics, #lower-img-blocks, footer{
         width: 100%;
         margin: 0;
     }
+    #setup{
+        width: 95%;
+        margin-left: 5%;
+    }
+    
     p,li{
         font-size: 100%;
         font-weight: 500;
@@ -497,6 +510,9 @@ footer a{
         margin-left: 5%;
         clear: both;
     }
+    #setup{
+        margin: 0;
+    }
     #setup-list{
         width: 65%;
         float: left;
@@ -509,6 +525,7 @@ footer a{
     }
     #sign-up{
         height: 500px;
+        
     }
     .sign-up-textbox, .sign-up-form, #contact-form{
         width: 60%;
