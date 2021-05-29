@@ -435,6 +435,7 @@ footer a{
         width: 60%;
         margin: 0 20%;
     }
+    
     hr{
         width: 60%;
         margin: 25px 20%;
@@ -530,6 +531,9 @@ footer a{
         margin-left: 5%;
         font-size: 90%;
     }
+    #setup-list li{
+        font-weight: 600;
+    }
      #setup-icons{
         width: 25%;
         float: right;
@@ -560,4 +564,59 @@ footer a{
     #contact, #social{
         font-size: 80%;
     }
+}
+/* mobile screens 600px w/d */
+@media screen and (max-width:600px){
+    #logo{
+        width: 90%;
+        margin: 0 5%;
+        font-size: 250%;
+        text-align: center;
+    }
+    #menu li{
+        width: 80%;
+        margin: 10px 10%;
+        font-size: 250%;
+        line-height: 30px;
+        text-align: center;
+    }
+    #setup-list{
+        width: 75%;
+        float: left;
+        margin-left: 5%;
+        font-size: 80%;
+        
+    }
+    
+     #setup-icons{
+        width: 15%;
+        float: right;
+        margin-right: 5%;
+         
+    }
+   
+    .small-img-container{
+        height: 200px;
+        width: 90%;
+        margin: 5px 5%;
+        
+    }
+    .benefits-list li{
+        padding-top: 10px;
+        line-height: 40px;
+    }
+    #benefits-further-info div{
+        clear: both;
+        width: 90%;
+        margin:0 0 10px 5%;
+        
+    }
+    #video-link{
+        height: 200px;
+    }
+    #contact-form,.sign-up-textbox, .sign-up-form{
+        width: 90%;
+        margin: 10px 5%;
+    }
+    
 }
