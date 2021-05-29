@@ -129,7 +129,7 @@ hr{
 
 #setup ul{
     list-style: none;
-    text-align: center;
+    
     line-height: 75px;
     vertical-align: top;
 }
@@ -163,13 +163,15 @@ hr{
     width: 40%;
     display: inline-block;
     font-size: 120%;
+    text-align: left;
+    margin-left: 5%;
   
 }
 #setup-icons{
-    width: 19%;
+    width: 10%;
     display: inline-block;
     font-size: 200%;
-    
+    text-align: center;
 }
 /* benefits */
 #benefits ul{
@@ -427,6 +429,8 @@ footer a{
 
 /* for larger to medium screens size from 1200px wide and down */
 @media screen and (max-width:1200px){
+     
+    
  .small-img-container, #benefits-further-info div{
         clear: both;
         width: 60%;
@@ -445,7 +449,7 @@ footer a{
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
-        font-size: 80%;
+        font-size: 90%;
     }
      #cover-text-hero{
         left: 0;
