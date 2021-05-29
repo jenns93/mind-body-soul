@@ -310,6 +310,7 @@ hr{
      width: 30%;
      height: 250px;
     display: inline-block;
+    line-height: 0;
      
     
 }
@@ -317,18 +318,18 @@ hr{
     width: 60%;
     margin-left: 20%;
     padding: 5px 0 5px 2px;
-    
-    
+    display: block;
 }
 .sign-up-form label{
     margin-left: 20%;
     line-height: 40px;
-   
+    display: block;
     
 }
 .sign-up-form [type=submit], #contact-form [type=submit]{
     width: 20%;
     margin-left: 35%;
+    margin-top: 10px;
     padding: 5px;
     border-radius: 50px;
     background-color: #ffff;
@@ -370,7 +371,7 @@ hr{
 #contact-form{
     background-color: rgba(214, 220, 207, 0.6);
    border-radius: 20px;
-   margin:30px 20%;
+   margin:30px 25%;
      width: 50%;
      height: 770px;
     display: inline-block;
