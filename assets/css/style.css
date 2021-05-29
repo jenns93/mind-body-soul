@@ -536,6 +536,10 @@ footer a{
         margin-right: 5%;
          
     }
+    .small-img-container{
+        width: 70%;
+        margin: 5px 15%;
+    }
     #sign-up, #contact-form{
         font-size: 80%;
     }
