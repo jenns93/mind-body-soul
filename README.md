@@ -22,5 +22,26 @@ This website is a introduction into what meditation, yoga and mindfulness can of
 ### Header
 - The header allows the user to navigate between a home page, 3 information pages and a contact page as well as the logo bringing the user back to the home screen
 ### Navbar
-- The links on the nav bar will display an underline when hovered over as well as the active page the user is using will also be underlined 
+- The links on the nav bar display an underline when hovered over as well as the active page the user is using will also be underlined 
 ### Hero image
+- All hero images have a smooth zoom transition when page is first loaded
+### Accessibility
+-
+### Responsiveness
+- All site pages responed with the same functionality for all screen size
+### Footer
+- Footer contains all social media links that are accesible through social icon logos
+- A link to the contact page is provided in footer as well as link to google maps for the companies address
+## Specific to Pages
+### Home
+- Home page provides a welcome to the site with newsletter sign up form below hero image
+- a lower banner image with four blocks with overlay text, sits above footer 
+- footer contains social links, link to contact form and address with link to google maps
+### mindfulness, yoga & meditation
+- main content pages are all structured in the same style with a summary and introduction to the topic below the hero image
+- below the summary is the setup section with image, icons and list of what user will need
+- under the setup is the benefit section with three images with overlay text with some health benefits, then below images further information is given and broken down into three parts. 1.mental health 2.physical 3.emotional
+- next a video link is provided in thr form of an iframe which will guide the user through a short begginers video to familirise themselves with the processes
+ - a lower banner image with four blocks with overlay text, sits above footer
+ - footer contains social links, link to contact form and address with link to google maps
+ 
