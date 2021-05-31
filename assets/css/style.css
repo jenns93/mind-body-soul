@@ -566,6 +566,9 @@ footer a{
         font-size: 250%;
         text-align: center;
     }
+    header{
+        position: relative;
+    }
     #menu li{
         width: 80%;
         margin: 10px 10%;
@@ -573,6 +576,7 @@ footer a{
         line-height: 30px;
         text-align: center;
     }
+    
     #setup-list{
         width: 75%;
         float: left;
