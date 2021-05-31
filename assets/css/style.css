@@ -576,7 +576,9 @@ footer a{
         line-height: 30px;
         text-align: center;
     }
-    
+    #hero-outer{
+        padding-top: 0;
+    }
     #setup-list{
         width: 75%;
         float: left;
