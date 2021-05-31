@@ -170,9 +170,9 @@ This website has been created to provide a rundown of the basics and background 
 
 -Yoga page [Results](https://www.webpagetest.org/result/210531_AiDcR1_d92bccba55497a7981a2c8ef4829f188/)
 
--Meditation page [Results]()
+-Meditation page [Results](https://www.webpagetest.org/result/210531_AiDc5W_d0d649a37afe4aee322a010d3b173545/)
 
--Contact page [Results]()
+-Contact page [Results](https://www.webpagetest.org/result/210531_BiDc15_32c8200cd6c1510700eab514c89a1697/)
 
 ### Credits
 
@@ -188,7 +188,7 @@ This website has been created to provide a rundown of the basics and background 
 
 -Code Institute [SampleREADME]()
 
--[Markdown cheat sheet]( https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+-[Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 -Video links were provided by YouTube and the flowing channels
  
