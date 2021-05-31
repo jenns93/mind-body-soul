@@ -595,6 +595,9 @@ footer a{
     #hero-outer{
         padding-top: 0;
     }
+    #top-btn{
+        visibility: visible;
+    }
     #setup-list{
         width: 75%;
         float: left;
