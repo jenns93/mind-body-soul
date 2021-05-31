@@ -150,31 +150,25 @@ This website has been created to provide a rundown of the basics and background 
 ### Compatibility Testing
 
 #### Browser Compatibility
-| Device      | Safari      |  Microsoft Edge | Chrome   | Internet Explorer | FireFox |
-| ----------- | ----------- | -----------     | ----------- | ----------- | ----------- |
-| Desktop     | Not Tested  |Not Tested  |Not Tested  |Not Tested  |Not Tested  |
-| Tablet      | Not Tested  |Not Tested  |Not Tested  |Not Tested  |Not Tested  |
-| Mobile      | Not Tested  |Not Tested  |Not Tested  |Not Tested  |Not Tested  |
-
--Mobile: Safari (Not tested), Microsoft Edge (Tick), Chrome (Tick), Internet Explorer (tick), Fire Fox (Not Tested).
-
--Tablet: Safari (Not tested), Microsoft Edge (Tick), Chrome (Tick), Internet Explorer (tick), Fire Fox (Not Tested).
-
--Desktop: Safari (Not tested), Microsoft Edge (Tick), Chrome (Tick), Internet Explorer (tick), Fire Fox (Not Tested).
+| Device      | Safari      |  Microsoft Edge    | Chrome             | Internet Explorer  | FireFox            |
+| ----------- | ----------- | -----------        | -----------        | -----------        | -----------        |
+| Desktop     | Not Tested  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |
+| Tablet      | Not Tested  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |
+| Mobile      | Not Tested  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |
 
 -Devices used in this testing include: Dell desktop PC, Asus laptop and various android smart phones.
 
--In addition the site has been tested on the selection of device screen sizes provided in [Chrome DevTools]( https://developer.chrome.com/docs/devtools/) such as : Galaxy S5, Iphone X and Ipad.  
+-In addition the site has been tested on the selection of device screen sizes provided in [Chrome DevTools](https://developer.chrome.com/docs/devtools/) such as : Galaxy S5, Iphone X and Ipad.  
 
 ### Performance Testing
 
--Site performance was tested using [WebPageTest]( https://www.webpagetest.org/)
+-Site performance was tested using [WebPageTest](https://www.webpagetest.org/)
 
--Home page [Results]()
+-Home page [Results](https://www.webpagetest.org/result/210531_AiDcQF_4c111f5a9a592055a522a82bbf4d85ff/)
 
--Mindfulness page [Results]()
+-Mindfulness page [Results](https://www.webpagetest.org/result/210531_BiDcVZ_22562e377d421fb2af6345744d0eacfe/)
 
--Yoga page [Results]()
+-Yoga page [Results](https://www.webpagetest.org/result/210531_AiDcR1_d92bccba55497a7981a2c8ef4829f188/)
 
 -Meditation page [Results]()
 
