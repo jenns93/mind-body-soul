@@ -62,7 +62,7 @@ hr{
     position: relative;
     width: 100%;
     height: 600px;
-    padding-top: 80px;
+    padding-top: 100px;
 }
 #hero-outer > div{
     height: 600px;
@@ -477,6 +477,9 @@ footer a{
         margin-bottom: 20px;
         line-height: 25px;
         font-size: 90%;
+    }
+    #hero-outer{
+        padding-top: 150px;
     }
      #cover-text-hero{
         left: 0;
