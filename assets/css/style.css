@@ -8,8 +8,6 @@ body{
     font-family: roboto,sans-serif;
     font-weight: 500;
     color: #3a3a3a;
-
-    
 }
 hr{
     width: 90%;
@@ -17,12 +15,10 @@ hr{
     border-top:1px solid #3a3a3a;
 }
 
-/* header logo and menu elements */
 #logo{
     float: left;
     margin-left: 2%;
     font-size: 250%;
-    
 }
 #menu{
     float: right;
@@ -45,14 +41,13 @@ hr{
 #menu a:hover{
     border-bottom: 1.5px solid #3a3a3a;
     font-weight: 800;
-     transition: 0.2s;
-     
+     transition: 0.2s; 
 }
 .active{
     border-bottom: 1.5px solid #3a3a3a;
     font-size: 100% !important;
 }
-/* hero images and cover text */
+
 #hero-outer{
     overflow: hidden;
     position: relative;
@@ -62,7 +57,6 @@ hr{
 #hero-outer > div{
     height: 600px;
     width: 100%;
-    /* hero images zoom animation */
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -75,7 +69,6 @@ hr{
         transform: scale(1.05);
     }
 }
-/* hero images */
 #hero-home{
     background: url(../images/hero-home.jpg)no-repeat center center;
 }
@@ -97,7 +90,6 @@ hr{
 #cover-text-hero{
     width: 250px;
     height: 160px;
-
     background-color: rgba(214, 220, 207, 0.6);
     color: inherit;
     padding: 10px;
@@ -105,7 +97,6 @@ hr{
     border-radius: 10px;
     bottom: 170px;
     right: 200px;
-
     position: absolute;
 }
 #cover-text-hero h2{
@@ -114,7 +105,7 @@ hr{
 #cover-text-hero h3{
     line-height: 25px;
 }
-/* summary,setup, benefits and basics sections */
+
 #summary h2, #setup h2, #benefits h2, #basics h2{
     padding: 20px 0;
     text-align: center;
@@ -125,11 +116,9 @@ hr{
 #summary p,#setup, #benefits{
     margin: 0 5%;
 }
-/* setup */
 
 #setup ul{
     list-style: none;
-    
     line-height: 75px;
     vertical-align: top;
 }
@@ -143,21 +132,18 @@ hr{
     background-size: 100%;
     height: 100%;
     width: 100%;
-    
 }
 #mind-setup{
     background: url(../images/mind-setup.jpg) no-repeat center center;
     background-size: 100%;
     height: 100%;
-    width: 100%;
-    
+    width: 100%; 
 }
 #yoga-setup{
     background: url(../images/yoga-setup.jpg) no-repeat center center;
     background-size: 100%;
     height: 100%;
     width: 100%;
-    
 }
 #setup-list{
     width: 40%;
@@ -165,7 +151,6 @@ hr{
     font-size: 120%;
     text-align: left;
     margin-left: 5%;
-  
 }
 #setup-icons{
     width: 10%;
@@ -173,7 +158,7 @@ hr{
     font-size: 200%;
     text-align: center;
 }
-/* benefits */
+
 #benefits ul{
     list-style: none;
 }
@@ -182,7 +167,6 @@ hr{
     width: 33%;
     display: inline-block;
 }
-
 .benefits-overlay-text{
     height: 100%;
     width: 100%;
@@ -194,7 +178,6 @@ hr{
     font-size: 120%;
 }
 
-/* meditation benefit images */
 #benefits-med-1{
     background: url(../images/med-benefit-1.jpg) no-repeat center center;
     height: 100%;
@@ -206,16 +189,14 @@ hr{
     height: 100%;
     width: 100%;
    background-size: cover;
-
 }
 #benefits-med-3{
     background: url(../images/med-benefit-3.jpg) no-repeat center center;
     height: 100%;
     width: 100%;
     background-size: cover;
-
 }
-/* mindfulness benefit images */
+
 #benefits-mind-1{
     background: url(../images/mind-benefit-1.jpg) no-repeat center center;
     height: 100%;
@@ -227,7 +208,6 @@ hr{
     height: 100%;
     width: 100%;
    background-size: cover;
-
 }
 #benefits-mind-3{
     background: url(../images/mind-benefit-3.jpg) no-repeat center center;
@@ -247,7 +227,6 @@ hr{
     height: 100%;
     width: 100%;
    background-size: cover;
-
 }
 #benefits-yoga-3{
     background: url(../images/yoga-benefit-3.jpg) no-repeat center center;
@@ -258,38 +237,33 @@ hr{
 .benefits-list i{
     font-size: 200%;
 }
-/* benefits-further-info */
+
  #benefits-further-info div{
      width: 33%;
      display: inline-block;
      vertical-align: top;
  }
 #benefits-further-info h3,#benefits-further-info p {
-    
-    
     line-height: 30px;
     padding:10px 5px 0 5px;
     text-align: center;
-    
 }
 #benefits-further-info h3{
     text-align: center;
     padding-bottom: 20px;
 }
 
-/* basics and video */
 #basics{
     text-align: center;
 }
 #basics p{
     padding-bottom: 20px;
 }
-/* sign up section */
+
 #sign-up{
     margin-top: 50px;
     height: 300px;
-    width: 100%;
-    
+    width: 100%; 
 }
 .sign-up-textbox{
     margin-left: 15%;
@@ -311,8 +285,6 @@ hr{
      height: 250px;
     display: inline-block;
     line-height: 0;
-     
-    
 }
 .sign-up-form input{
     width: 60%;
@@ -323,8 +295,7 @@ hr{
 .sign-up-form label{
     margin-left: 20%;
     line-height: 40px;
-    display: block;
-    
+    display: block;  
 }
 .sign-up-form [type=submit], #contact-form [type=submit]{
     width: 20%;
@@ -337,7 +308,6 @@ hr{
 .sign-up-form [placeholder], #contact-form [placeholder]{
     color: #3a3a3a;
 }
-/* sign up hover functions */
 .sign-up-form input:hover, #contact-form input:hover{
      background-color: lightblue;
 }
@@ -345,7 +315,7 @@ hr{
     background-color: lightblue;
     font-weight: 600;
 }
-/* lower img blocks section */
+
 #lower-img-blocks{
     background: url(../images/lower-section.jpg)no-repeat center center;
     background-repeat: no-repeat;
@@ -367,7 +337,7 @@ hr{
     font-size: 200%;
     line-height: 80px;
 }
-/* contact form */
+
 #contact-form{
     background-color: rgba(214, 220, 207, 0.6);
    border-radius: 20px;
@@ -380,7 +350,6 @@ hr{
 #contact-form h2{
     text-align: center;
     font-size: 160%;
-    
 }
 #contact-form input, #query-subject{
     width: 60%;
@@ -401,7 +370,7 @@ hr{
     height: 150px;
     line-height: 20px;
 }
-/* footer elemnts social etc */
+
 footer{
     width: 100%;
     height: 180px;
@@ -428,15 +397,12 @@ footer a{
     text-decoration: none;
     list-style: none;
 }
-/* media quires */
 
-/* extra large screens 5000 w/d */
 @media screen and (max-width:5000px){
     header, #hero-outer, #summary, #setup, #benefits, #basics, #sign-up, #lower-img-blocks, footer{
         width: 60%;
         margin: 0 20%;
     }
-    
     hr{
         width: 60%;
         margin: 25px 20%;
@@ -449,7 +415,7 @@ footer a{
     margin-top: 50px;
     }
 }
-/* for large screens size from 2000px wide and down */
+
 @media screen and (max-width:2000px){
     header, #hero-outer, #summary, #setup, #benefits, #basics, #lower-img-blocks, footer{
         width: 80%;
@@ -462,8 +428,6 @@ footer a{
     }
 }
 
-
-/* for larger to medium screens size from 1200px wide and down */
 @media screen and (max-width:1200px){
       header, #hero-outer, #summary, #benefits, #basics, #lower-img-blocks, footer{
         width: 100%;
@@ -473,7 +437,6 @@ footer a{
         width: 95%;
         margin-left: 5%;
     }
-    
     p,li{
         font-size: 100%;
         font-weight: 500;
@@ -486,13 +449,12 @@ footer a{
         clear: both;
         width: 60%;
         margin:0 0 10px 20%;
-        
     }
  #video-link{
      width: 90%;  
  }
 }
- /* for medium screens size from 950px wide and down */
+
 @media screen and (max-width:950px){
      #menu{
         clear: left;
@@ -526,19 +488,17 @@ footer a{
     }
     #sign-up{
         height: 500px;
-        
     }
     .sign-up-textbox, .sign-up-form, #contact-form{
         width: 60%;
         margin:10px 20%;
         display: block;
     }
-    
    #lower-img-blocks h3{
        font-size: 80%;
    }
 }
-/* for small screen sizes 800px wide and down */
+
 @media screen and (max-width:800px){
     #menu{
         font-size: 90%;
@@ -556,7 +516,6 @@ footer a{
         width: 25%;
         float: right;
         margin-right: 5%;
-         
     }
     .small-img-container{
         width: 70%;
@@ -574,16 +533,15 @@ footer a{
         width: 30%;
     }
     #lower-img-blocks > div{
-         width: 100%;
-       display: block;
-       
+        width: 100%;
+        display: block;
         padding: 0;
     }
     #contact, #social{
         font-size: 80%;
     }
 }
-/* mobile screens 600px w/d */
+
 @media screen and (max-width:600px){
     #logo{
         width: 90%;
@@ -603,21 +561,16 @@ footer a{
         float: left;
         margin-left: 5%;
         font-size: 80%;
-        
     }
-    
      #setup-icons{
         width: 15%;
         float: right;
         margin-right: 5%;
-         
     }
-   
-    .small-img-container{
+     .small-img-container{
         height: 200px;
         width: 90%;
         margin: 5px 5%;
-        
     }
     .benefits-list li{
         padding-top: 10px;
@@ -627,7 +580,6 @@ footer a{
         clear: both;
         width: 90%;
         margin:0 0 10px 5%;
-        
     }
     #video-link{
         height: 200px;
@@ -636,5 +588,4 @@ footer a{
         width: 90%;
         margin: 10px 5%;
     }
-    
 }
