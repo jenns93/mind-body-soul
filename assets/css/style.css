@@ -411,7 +411,6 @@ footer a{
     text-decoration: none;
     list-style: none;
 }
-
 @media screen and (max-width:5000px){
     header, #hero-outer, #summary, #setup, #benefits, #basics, #sign-up, #lower-img-blocks, footer{
         width: 60%;
