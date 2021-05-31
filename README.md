@@ -6,11 +6,11 @@ This website has been created to provide a rundown of the basics and background 
 
 ## Table of Contents
 
--[User Experience (UX)](# User-Experience (UX))
+-[User Experience (UX)](#User-Experience (UX))
 
 -[Features](#Features)
 
--[Technologies Used](# Technologies-Used)
+-[Technologies Used](#Technologies-Used)
 
 -[Testing](#Testing)
 
