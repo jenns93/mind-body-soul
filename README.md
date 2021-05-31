@@ -67,23 +67,23 @@ This website has been created to provide a rundown of the basics and background 
 
 #### Languages Used
 
--          HTML5
+-HTML5
 
--          CSS3
+-CSS3
 
 #### Frameworks, libraries and programs used
 
--[Mockplus]( https://www.mockplus.com/) Mockplus was used to create the wireframe designs for the site on three screen sizes desktop, tablet and mobile.
+-[Mockplus](https://www.mockplus.com/) Mockplus was used to create the wireframe designs for the site on three screen sizes desktop, tablet and mobile.
 
--[Font Awesome]( https://fontawesome.com/) Font Awesome was used to provide icons for social links and used throughout webpages as additional styling to lists.
+-[Font-Awesome](https://fontawesome.com/) Font Awesome was used to provide icons for social links and used throughout webpages as additional styling to lists.
 
--[Google Fonts]( https://fonts.google.com/) Google Fonts was used to import ……………….. into the style.css stylesheet
+-[Google-Fonts](https://fonts.google.com/) Google Fonts was used to import ……………….. into the style.css stylesheet
 
--[Github]( https://github.com/) Github is used to the files and to publish the finished website.
+-[Github](https://github.com/) Github is used to the files and to publish the finished website.
 
--[Gitpod]( https://www.gitpod.io/) Gipod was used to code the website and committed changes to Github.
+-[Gitpod](https://www.gitpod.io/) Gipod was used to code the website and committed changes to Github.
 
--[Pexels]( https://www.pexels.com/) Pexels was used to source stock photos to be used to enhance the design of the site.
+-[Pexels](https://www.pexels.com/) Pexels was used to source stock photos to be used to enhance the design of the site.
 
 ## Testing
 
@@ -131,15 +131,15 @@ This website has been created to provide a rundown of the basics and background 
 
 ### HTML5 Validator
 
--Home Page - Pass [Results]()
+-Home Page - Pass [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjenns93.github.io%2Fmind-body-soul%2F)
 
--Mindfulness Page - Pass [Results]()
+-Mindfulness Page - Pass [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjenns93.github.io%2Fmind-body-soul%2Fmindfulness.html)
 
--Yoga Page - Pass [Results]()
+-Yoga Page - Pass [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjenns93.github.io%2Fmind-body-soul%2Fyoga.html)
 
--Meditation Page - Pass [Results]()
+-Meditation Page - Pass [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjenns93.github.io%2Fmind-body-soul%2Fmeditation.html)
 
--Contact Page - Pass [Results]()
+-Contact Page - Pass [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjenns93.github.io%2Fmind-body-soul%2Fcontact.html)
 
 ### Usability Testing
 
