@@ -282,11 +282,11 @@ hr{
     background-color: rgba(214, 220, 207, 0.6);
 }
 .sign-up-form{
- background-color: rgba(214, 220, 207, 0.6);
-   border-radius: 20px;
-   margin-left: 5%;
-     width: 30%;
-     height: 250px;
+    background-color: rgba(214, 220, 207, 0.6);
+    border-radius: 20px;
+    margin-left: 5%;
+    width: 30%;
+    height: 250px;
     display: inline-block;
     line-height: 0;
 }
@@ -344,10 +344,10 @@ hr{
 
 #contact-form{
     background-color: rgba(214, 220, 207, 0.6);
-   border-radius: 20px;
-   margin:30px 25%;
-     width: 50%;
-     height: 770px;
+    border-radius: 20px;
+    margin:30px 25%;
+    width: 50%;
+    height: 770px;
     display: inline-block;
     line-height: 50px;
 }
@@ -495,7 +495,7 @@ footer a{
         margin-right: 5%;
     }
     #sign-up{
-        height: 500px;
+        height: 410px;
     }
     .sign-up-textbox, .sign-up-form, #contact-form{
         width: 60%;
