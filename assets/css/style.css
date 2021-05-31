@@ -374,6 +374,10 @@ hr{
     height: 150px;
     line-height: 20px;
 }
+#hero-404 div{
+    height: 100px;
+    margin: 150px 20%;
+}
 
 footer{
     width: 100%;
