@@ -3,11 +3,11 @@
 [Live Website](https://jenns93.github.io/mind-body-soul/)
 [Github Repository]()
  # About
-This website has been created to provide a rundown of the basics and background of mindfulness, yoga and meditation and also to inform the user in the wide range of benefits that these practices can provide.
+This website has been created to provide a rundown of the basics and background of mindfulness, yoga, and meditation and also to inform the user in the wide range of benefits that these practices can provide.
 
 ## Table of Contents
 
-- [User Experience (UX)](#User-Experience (UX))
+- [User Experience (UX)](#User-Experience-(UX))
 - [Design](#Design)
 
 - [Features](#Features)
@@ -25,27 +25,28 @@ This website has been created to provide a rundown of the basics and background 
 
 ## User Experience (UX)
 ### User Stories
-- As a visitor, I am looking to find out if mindfulness, yoga or meditation could help me with stress management.
+i. As a visitor, I am looking to find out if mindfulness, yoga, or meditation could help me with stress management.
 1. I want the layout of the website to be easy to navigate and not cluttered.
-2. I want to have enough information so that I am informed but not so much that I feel overwhelmed .
-3. I want to have the option to contact the comapany for further information.
-4. I want to be able to open external links to learn further infomation on each activity.
+2. I want to have enough information so that I am informed but not so much that I feel overwhelmed.
+3. I want to have the option to contact the company for further information.
+4. I want to be able to open external links to learn further information on each activity.
 
-- As a visitor who is on the move
-1. I want to be able to view the content on all my dvices.
+i. As a visitor who is on the move
+1. I want to be able to view the content on all my devices.
 2. I want to be able to view videos of demonstrations.
 3. I want "to the point" information to see if this is the activity for me.
 
 
 ## Design
 ### Colour scheme
-- This website is here to provide a starting point for people seeking more peace in thier lives so the colour scheme needs to reflect that so looks of white has been used along with a light kaki green (rgba 214, 220, 207) along with soft greys (#3a3a3a) used for text and blended in with images as an overlaying background.
-## Typography
-- The main text font is roboto which is used throught at various weights for readability for varying screen sizes and paired with Montserrat for the headers.
-## Imagery
-- The images used in the website have been selected to give the feeling of everyday life and a sense of casualness. This is to give the feeling to the user that mindfulness, yoga and meditation can be incorperated seemlesly into thier lives without affecting their work/life balance.
-## Wirefames
-- The wireframes were created using Mockplus, theses wireframes were followed almost exactly apart from slight tweeks needed for better useablity on some screen sizes. Also the addition of a contact page was added later which followed a similar design as the home page only with another for located above the sign up form.
+- This website is here to provide a starting point for people seeking more peace in their lives, so the colour scheme needs to reflect that so looks of white has been used along with a light kaki green (rgba 214, 220, 207) along with soft greys (#3a3a3a) used for text and blended in with images as an overlaying background.
+### Typography
+- The main text font is Roboto which is used throughout at various weights for readability for varying screen sizes and paired with Montserrat for the headers.
+### Imagery
+- The images used on the website have been selected to give the feeling of everyday life and a sense of casualness. This is to give the feeling to the user that mindfulness, yoga and meditation can be incorporated seamlessly into their without affecting their work/life balance.
+### Wireframes
+- The wireframes were created using Mockplus, theses wireframes were followed almost exactly apart from slight tweaks needed for better usability on some screen sizes. Also, the addition of a contact page was added later which followed a similar design as the home page only with another for located above the sign up form.
+
 ![](https://github.com/jenns93/mind-body-soul/blob/375346162e8d4a46f9c9d667448999807df62750/assets/images/Home-wireframe-phone.png)
 - [Wireframes](https://app.mockplus.com/s/dy5_OMN66-l)
 ## Features
@@ -54,42 +55,42 @@ This website has been created to provide a rundown of the basics and background 
 ### Navbar
 - The links on the nav bar display an underline when hovered over as well as the active page the user is using will also be underlined.
 - For medium to large screens the navigation bar is fixed in place, allowing the user to switch pages at any time.
-- When in the fixed position the navigation bar is slightly opeck to soften the harsh lines that a fixed navigation bar creates over content.
-- - For small screen sizes (mobile) the navigation bar is enlarged and stacked and unfixed, however a button is provived to the user which promtley takes the user to the top of the page.
+- When in the fixed position the navigation bar is slightly opaque to soften the harsh lines that a fixed navigation bar creates over content.
+- For small screen sizes (mobile) the navigation bar is enlarged and stacked and unfixed, however a button is provided to the user which promptly takes the user to the top of the page.
 ### Buttons
-- The "Top of page" button is styled in colors used throughout the website to keep the theame but obvious enough that it stands out on the page so the user can find it.
+- The "Top of page" button is styled in colours used throughout the website to keep the theme but obvious enough that it stands out on the page so the user can find it.
 ### Hero image
 - All hero images have a smooth zoom transition when page is first loaded
 ### Accessibility
-- Titles for each webpage are provied.
-- Aria labels are provied for the social media links in footer to help user find the desired destination.
-- Titles are provied in iframe video links to inform the user.
+- Titles for each webpage are provided.
+- Aria labels are provided for the social media links in footer to help user find the desired destination.
+- Titles are provided in iframe video links to inform the user.
 ### Responsiveness
-- All site pages responed with the same functionality for all screen sizes.
+- All site pages respond with the same functionality for all screen sizes.
 ### Footer
-- Footer contains all social media links that are accesible through social icon logos.
+- Footer contains all social media links that are accessible through social icon logos.
 - A link to the contact page is provided.
-- A link to google maps for the companies address is provided.
-- Content in the footer is centered and resizes depending on device size.
+- A link to google maps for the company’s address is provided.
+- Content in the footer is centred and resizes depending on device size.
 ## Specific to Pages
 ### Home
 - Home page provides a welcome to the site with newsletter sign up form below the hero image.
-- A lower banner image with four blocks with overlay text, sits above footer to provide additional asthetics. 
+- A lower banner image with four blocks with overlay text, sits above footer to provide additional aesthetics. 
 - Footer contains social links, link to contact form and address with link to google maps
 ### Mindfulness, Yoga & Meditation
 - Main content pages are all structured in the same style with a summary and introduction about the topic below the hero image.
-- Below the summary is the setup section with image, icons and list of what user will need for their fist attempt.
-- Under the setup is the benefit section with three images with overlay text with some health benefits, then below images further information is given and broken down into three parts. 1.mental health 2.physical 3.emotional.
-- Video links are provided in the form of an iframe which will guide the user through a short begginers video to familirise themselves with the process.
-- A lower banner image with four blocks with overlay text, sits above footer to provide additional asthetics.
+- Below the summary is the setup section with image, icons and list of what users will need for their first attempt.
+- Under the setup is the benefit section with three images with overlay text with some health benefits, then below images further information is given and broken down into three parts. 1. Mental Health 2. Physical 3. Emotional.
+- Video links are provided in the form of an iframe which will guide the user through a short beginner’s video to familiarise themselves with the process.
+- A lower banner image with four blocks with overlay text, sits above footer to provide additional aesthetics.
 - Footer contains social links, link to contact form and address with link to google maps.
 ### Contact
-- Under the hero image a contact form is provied with inputs for their name and email address.
-- Also an option list is provided to catagiraze the users issue along with a text box below to allow the user space to go into depth with their quirey or issue.
+- Under the hero image a contact form is provided with inputs for their name and email address.
+- Also, an option list is provided to categorize the users issue along with a text box below to allow the user space to go into depth with their query or issue.
 ### Future Features
 - Area to display recent user comments or reviews.
 - The addition of examples for what content and offers users could access when they sign up to the newsletter.
-- Addition of a gallery page for photos of relevent events organised by the company and colaborators.  
+- Addition of a gallery page for photos of relevant events organised by the company and collaborators.    
 ## Technologies Used
 
 ### Languages Used
@@ -138,7 +139,7 @@ This website has been created to provide a rundown of the basics and background 
 
 -Cover text is present on all hero images which sits to the right of the screen for screens 950px wide plus.
 
--Cover text for screen sizes 950px wide and below will sit to the left of the screen and eventually sit in the center as the screen size decreases.
+-Cover text for screen sizes 950px wide and below will sit to the left of the screen and eventually sit in the centre as the screen size decreases.
 
 #### Main sections
 
@@ -184,11 +185,11 @@ This website has been created to provide a rundown of the basics and background 
 ### Compatibility Testing
 
 #### Browser Compatibility
-| Device      | Safari      |  Microsoft Edge    | Chrome             | Internet Explorer  | FireFox            |
-| ----------- | ----------- | -----------        | -----------        | -----------        | -----------        |
-| Desktop     | Not Tested  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |
-| Tablet      | Not Tested  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |
-| Mobile      | Not Tested  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |
+| Device      | Safari            |  Microsoft Edge    | Chrome             | Internet Explorer  | FireFox            |
+| ----------- | -----------       | -----------        | -----------        | -----------        | -----------        |
+| Desktop     | Not Tested        |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |
+| Tablet      | :heavy_check_mark:|:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |
+| Mobile      | Not Tested        |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |
 
 - Devices used in this testing include: Dell desktop PC, Asus laptop and various android smart phones.
 - In addition the site has been tested on the selection of device screen sizes provided in [Chrome DevTools](https://developer.chrome.com/docs/devtools/) such as : Galaxy S5, Iphone X and Ipad.  
@@ -196,7 +197,7 @@ This website has been created to provide a rundown of the basics and background 
 ### Performance Testing
 
 - Site performance was tested using [WebPageTest](https://www.webpagetest.org/)
-- Areas of improvement recomended by the tester were security and Cache static which are beyond the scope of this project, though when this information is learned it will be added to future projects. 
+- Areas of improvement recommended by the tester were security and Cache static which are beyond the scope of this project, though when this information is learned it will be added to future projects. 
 
 - Home page [Results](https://www.webpagetest.org/result/210531_AiDcQF_4c111f5a9a592055a522a82bbf4d85ff/)
 
@@ -209,24 +210,25 @@ This website has been created to provide a rundown of the basics and background 
 - Contact page [Results](https://www.webpagetest.org/result/210531_BiDc15_32c8200cd6c1510700eab514c89a1697/)
 
 ### Testing User Stories
-- As a visitor, I am looking to find out if mindfulness, yoga or meditation could help me with stress management.
+i. As a visitor, I am looking to find out if mindfulness, yoga or meditation could help me with stress management.
 1. I want the layout of the website to be easy to navigate and not cluttered.
 - The user will be able to navigate between pages from anywhere on the site with the fixed navigation bar and back to top button for smaller screens. 
 - The user will not feel as though the site is overcrowded or cluttered as it is designed to be clean cut. 
 2. I want to have enough information so that I am informed but not so much that I feel overwhelmed.
 - The site provides the user with enough information to keep their interest and never feel as they are doing heavy reading.
-3. I want to have the option to contact the comapany for further information.
-- The user will find the contact page easy to find and fill in, and are able to write in depth any queries they have and send them to the company with no issues.
-4. I want to be able to open external links to learn further infomation on each activity.
-- Social links are provided on all pages and useful instructional videos are avalible on all topics covered on this site.
+3. I want to have the option to contact the company for further information.
+- The user will find the contact page easy to find and fill in and are able to write in depth any queries they have and send them to the company with no issues.
+4. I want to be able to open external links to learn further information on each activity.
+- Social links are provided on all pages and useful instructional videos are available on all topics covered on this site.
 
-- As a visitor who is on the move
-1. I want to be able to view the content on all my dvices.
-- The user will have no issues viewing the site on any of their devies and will find the different layouts of pages to work well with the desired screen sizes.
+
+ii. As a visitor who is on the move
+1. I want to be able to view the content on all my devices.
+- The user will have no issues viewing the site on any of their devices and will find the different layouts of pages to work well with the desired screen sizes.
 2. I want to be able to view videos of demonstrations.
-- Helpful videos are provied and will be very useful for someone just starting out.
+- Helpful videos are provided and will be especially useful for someone just starting out.
 3. I want "to the point" information to see if this is the activity for me.
-- The user will find the information provided to be informative and wont feel bogged down with in depth reading, insted the information provied is kept to the keypoints of the topics.
+- The user will find the information provided to be informative and won’t feel bogged down with in depth reading, instead the information provided is kept to the key points of the topics.
 ## Deployment
 ### Github Pages
 - The project was deployed to GitHub Pages using the following steps...
@@ -239,16 +241,16 @@ This website has been created to provide a rundown of the basics and background 
 6. Move down through the page and locate the published site link in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
-To contribute you can Fork without affecting the main branch. Follow the instuctions outlined below.
+To contribute you can Fork without affecting the main branch. Follow the instructions outlined below.
 
 1. Go to GitHub and log in.
 2. Find the Repository that was used for this project.
 3. To the right of the Repository name you will see the 'Fork' button. This is located next to the 'Star' and 'Watch' buttons.
 4. Doing this will place a copy in your own repository.
-5. When you are finished locate the 'New Pull Request' button above the file list on the original repository.
+5. When you are finished locating the 'New Pull Request' button above the file list on the original repository.
 
 ### Cloning
-- To clone or download the repository to your own device follow the instuctions listed below.
+- To clone or download the repository to your own device follow the instructions listed below.
 
 1. Head to Github and log in.
 2. Find the Repository for this site.
@@ -266,10 +268,12 @@ To contribute you can Fork without affecting the main branch. Follow the instuct
 #### Code
 
 - Code institute walkthrough “love running” for zoom function on hero images and lower image banner positioned above footer.
+- Stackoverflow (tips)
+- w3schools (tips)
 
 #### Content
 
-- All code was written by the author - Jack Jenns
+- All code written by the author - Jack Jenns
 
 - To create the README file inspiration was taken from:
 
@@ -290,9 +294,9 @@ To contribute you can Fork without affecting the main branch. Follow the instuct
 - []()
 
 ### Acknowledgements
-- Stackoverflow
-- Fellow students on slack
-- My mentor for his guidence
-- w3schools 
+- Stackoverflow.
+- Fellow students on slack.
+- My mentor for his guidance.
+- w3schools. 
 
  
