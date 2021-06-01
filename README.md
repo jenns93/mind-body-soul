@@ -1,9 +1,6 @@
-# mind-body-soul
-A website for information on mindfulness, yoga and meditation  
+# Mind, Body & Soul
  # About
-
 This website has been created to provide a rundown of the basics and background of mindfulness, yoga and meditation and also to inform the user in the wide range of benefits that these practices can provide.
-
 ## Table of Contents
 
 -[User Experience (UX)](#User-Experience (UX))
@@ -35,7 +32,9 @@ This website has been created to provide a rundown of the basics and background 
 ## Imagery
 - The images used have been selected to give the feeling of everyday life and a sense of casualness that can be incorperated with the practasises shown of the site
 ## Wirefames
-- The wireframes were created using Mockplus, theses wireframes were followed almost exactly apart from slight tweeks for some screen sizes
+- The wireframes were created using Mockplus, theses wireframes were followed almost exactly apart from slight tweeks for some screen sizes and the addition of a contact page which followed similar design as home page.
+- [Wireframes](https://app.mockplus.com/s/dy5_OMN66-l)
+![](https://github.com/jenns93/mind-body-soul/blob/375346162e8d4a46f9c9d667448999807df62750/assets/images/Home-wireframe-phone.png)
 ## Features
 ### Header
 - The header allows the user to navigate between a home page, 3 information pages and a contact page as well as the logo bringing the user back to the home screen
