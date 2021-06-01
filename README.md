@@ -7,7 +7,7 @@ This website has been created to provide a rundown of the basics and background 
 
 ## Table of Contents
 
-- [User Experience (UX)](#User-Experience-(UX))
+- [User Experience UX](#User-Experience-UX)
 - [Design](#Design)
 
 - [Features](#Features)
@@ -23,7 +23,7 @@ This website has been created to provide a rundown of the basics and background 
 
 - [Credits](#Credits)
 
-## User Experience (UX)
+## User Experience UX
 ### User Stories
 i. As a visitor, I am looking to find out if mindfulness, yoga, or meditation could help me with stress management.
 1. I want the layout of the website to be easy to navigate and not cluttered.
@@ -289,9 +289,9 @@ To contribute you can Fork without affecting the main branch. Follow the instruc
 
 #### Media
 - Videos provided from YouTube from the following channels:
-- []()
-- []()
-- []()
+- [Great Meditation](https://www.youtube.com/channel/UCN4vyryy6O4GlIXcXTIuZQQ)
+- [Headspace](https://www.youtube.com/channel/UC3JhfsgFPLSLNEROQCdj-GQ)
+- [sarah beth yoga](https://www.youtube.com/user/SarahBethShow)
 
 ### Acknowledgements
 - Stackoverflow.
