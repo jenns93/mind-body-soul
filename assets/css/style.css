@@ -23,7 +23,6 @@ hr{
     margin: 25px 5%;
     border-top:1px solid #3a3a3a;
 }
-
 #logo{
     float: left;
     margin-left: 2%;
@@ -56,7 +55,6 @@ hr{
     border-bottom: 1.5px solid #3a3a3a;
     font-size: 100% !important;
 }
-
 #hero-outer{
     overflow: hidden;
     position: relative;
@@ -115,7 +113,6 @@ hr{
 #cover-text-hero h3{
     line-height: 25px;
 }
-
 #summary h2, #setup h2, #benefits h2, #basics h2{
     padding: 20px 0;
     text-align: center;
@@ -126,7 +123,6 @@ hr{
 #summary p,#setup, #benefits{
     margin: 0 5%;
 }
-
 #setup ul{
     list-style: none;
     line-height: 75px;
@@ -168,7 +164,6 @@ hr{
     font-size: 200%;
     text-align: center;
 }
-
 #benefits ul{
     list-style: none;
 }
@@ -187,7 +182,6 @@ hr{
     line-height: 80px;
     font-size: 120%;
 }
-
 #benefits-med-1{
     background: url(../images/med-benefit-1.jpg) no-repeat center center;
     height: 100%;
@@ -206,7 +200,6 @@ hr{
     width: 100%;
     background-size: cover;
 }
-
 #benefits-mind-1{
     background: url(../images/mind-benefit-1.jpg) no-repeat center center;
     height: 100%;
@@ -225,7 +218,6 @@ hr{
     width: 100%;
     background-size: cover;
 }
-/* yoga benefit images */
 #benefits-yoga-1{
     background: url(../images/yoga-benefit-1.jpg) no-repeat center center;
     height: 100%;
@@ -247,7 +239,6 @@ hr{
 .benefits-list i{
     font-size: 200%;
 }
-
  #benefits-further-info div{
      width: 33%;
      display: inline-block;
@@ -262,14 +253,12 @@ hr{
     text-align: center;
     padding-bottom: 20px;
 }
-
 #basics{
     text-align: center;
 }
 #basics p{
     padding-bottom: 20px;
 }
-
 #sign-up{
     margin-top: 50px;
     height: 300px;
@@ -325,7 +314,6 @@ hr{
     background-color: lightblue;
     font-weight: 600;
 }
-
 #lower-img-blocks{
     background: url(../images/lower-section.jpg)no-repeat center center;
     background-repeat: no-repeat;
@@ -347,7 +335,6 @@ hr{
     font-size: 200%;
     line-height: 80px;
 }
-
 #contact-form{
     background-color: rgba(214, 220, 207, 0.6);
     border-radius: 20px;
@@ -384,7 +371,6 @@ hr{
     height: 100px;
     margin: 150px 20%;
 }
-
 footer{
     width: 100%;
     height: 180px;
@@ -445,7 +431,6 @@ footer a{
     margin-top: 50px;
     }
 }
-
 @media screen and (max-width:2000px){
     header, #hero-outer, #summary, #setup, #benefits, #basics, #lower-img-blocks, footer{
         width: 80%;
@@ -457,7 +442,6 @@ footer a{
         font-size: 90%;
     }
 }
-
 @media screen and (max-width:1200px){
       header, #hero-outer, #summary, #benefits, #basics, #lower-img-blocks, footer{
         width: 100%;
@@ -484,7 +468,6 @@ footer a{
      width: 90%;  
  }
 }
-
 @media screen and (max-width:950px){
      #menu{
         clear: left;
@@ -531,7 +514,6 @@ footer a{
        font-size: 80%;
    }
 }
-
 @media screen and (max-width:800px){
     #menu{
         font-size: 90%;
@@ -574,7 +556,6 @@ footer a{
         font-size: 80%;
     }
 }
-
 @media screen and (max-width:600px){
     #logo{
         width: 90%;
